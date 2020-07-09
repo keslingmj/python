@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-UCSF.py
+cBioPortal.py
 
-Usage: ./UCSF.py --gene 'HUGO_gene_name'
+Usage: ./cBioPortal.py --gene 'HUGO_gene_name'
 """
 
 # Michael Kesling, July 1, 2020
